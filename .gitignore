@@ -1,0 +1,15 @@
+
+.env
+.npm
+.DS_Store
+
+node_modules
+yarn.lock
+npm-debug.log*
+coverage
+forme.md
+
+logs
+*.log
+
+
