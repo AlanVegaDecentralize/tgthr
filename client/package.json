@@ -58,7 +58,7 @@
     "help": "^3.0.2",
     "lodash": "^4.17.4",
     "mongodb": "^3.5.5",
-    "mongoose": "^4.7.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "nodemon": "^2.0.2",
     "passport": "^0.3.2",
