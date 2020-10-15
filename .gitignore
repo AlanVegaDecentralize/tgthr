@@ -9,6 +9,7 @@ npm-debug.log*
 coverage
 forme.md
 
+dist/
 logs
 *.log
 
